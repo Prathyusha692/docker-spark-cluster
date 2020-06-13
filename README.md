@@ -1,5 +1,9 @@
 # Spark Cluster with Docker & docker-compose
 
+https://forums.virtualbox.org/viewtopic.php?f=1&t=62339
+https://forums.virtualbox.org/viewtopic.php?f=6&t=87237&sid=e3acd1372fffac15f20709284c70ff98&start=15
+https://stackoverflow.com/questions/57441382/error-with-pre-create-check-this-computer-doesnt-have-vt-x-amd-v-enabled-ena
+
 # General
 
 A simple spark standalone cluster for your testing environment purposses. A *docker-compose up* away from you solution for your spark development environment.
